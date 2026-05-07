@@ -1,68 +1,118 @@
-# Atakan here!
+<div align="center">
 
-Frontend Developer focused on building clean, responsive, and user-friendly interfaces with JavaScript, TypeScript, React, Vite, Tailwind CSS, Axios, and REST APIs.
+# Atakan.dev
+
+```ts
+const developer = {
+  name: "Atakan",
+  role: "Frontend Developer",
+  stack: ["React", "TypeScript", "TailwindCSS", "Axios"],
+  currentlyLearning: ["API Logic", "React Hooks", "Clean Architecture"],
+};
+```
+
+Frontend Developer focused on building modern, responsive, and user-focused web interfaces.
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%2B+TypeScript;REST+API+Enthusiast;Clean+UI+Focused" />
+
+</div>
 
 ---
 
-## About Me
+# About Me
 
-I am learning and building modern frontend applications with a strong focus on clean UI, responsive design, and practical functionality.
+```txt
+Building modern frontend applications with a strong focus on:
+clean UI • responsive design • API architecture • usability
+```
 
-My current focus is improving my React skills, understanding API logic deeply, and building real-world frontend projects.
-
-- Building responsive and user-focused interfaces
-- Working with React, TypeScript, Tailwind CSS, and Axios
-- Learning REST API logic, data fetching, state management, and mapping
-- Improving frontend project structure and clean code habits
-- Turning ideas into functional web interfaces
+- Creating responsive and user-focused interfaces
+- Learning API integration deeply with React
+- Improving project architecture and clean code habits
+- Building practical and functional frontend projects
+- Focusing on real-world frontend development
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
+</p>
 
 ### API & Data
 
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-111827?style=flat&logo=fastapi&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=axios" />
+</p>
 
 ### Backend / Logic
 
-![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cs" />
+</p>
 
 ---
 
-## Currently Learning
+# Currently Learning
+
+<div>
+
+```tsx
+useEffect(() => {
+  fetchData();
+}, []);
+```
+
+</div>
 
 - React Hooks
-- useEffect and dependency array
+- useEffect & dependency array
 - API data fetching
-- Mapping API data to UI
-- Loading and error handling
-- Dynamic detail pages with ID
+- Mapping API data into UI
+- Loading & error handling
+- Dynamic detail pages
 - Axios
-- TypeScript basics
+- TypeScript fundamentals
 
 ---
 
-## Focus Areas
+# Focus Areas
 
-```txt
-fetch / axios
-useState
-useEffect
-map
-loading
-error handling
-dynamic id fetching
-clean UI
-responsive design
+<p align="left">
+
+<img src="https://img.shields.io/badge/fetch-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/useState-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/useEffect-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/map-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/loading-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/error_handling-E11D48?style=for-the-badge" />
+<img src="https://img.shields.io/badge/dynamic_fetching-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/clean_UI-06B6D4?style=for-the-badge" />
+
+</p>
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=github_dark&border_radius=12" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=github_dark&border_radius=12" />
+
+</div>
+
+---
+
+# Contact
+
+```yaml
+Website: https://www.fistikbilgisayar.com
+Instagram: @atakan.dev
+GitHub: @KULLANICIADIN
+```
