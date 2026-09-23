@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="455" viewBox="0 0 1100 455">
+<rect width="1100" height="455" rx="18" fill="#f6f8fa"/>
+<style>
+.ascii,.txt{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace;font-size:14px;fill:#24292f}
+.ascii{font-size:15px}.accent{fill:#9a6700}.muted{fill:#57606a}.green{fill:#1a7f37}
+</style>
+<text x="24" y="34" class="ascii">                                              </text>
+<text x="24" y="52" class="ascii">                 ;XH&amp;@@@BGhX.                 </text>
+<text x="24" y="70" class="ascii">               5@@@@@@@@@@@@@H.               </text>
+<text x="24" y="88" class="ascii">              B@@@@@@@@@@@@@@@@h              </text>
+<text x="24" y="106" class="ascii">             2@@#h52235XrX2h&amp;@@@X             </text>
+<text x="24" y="124" class="ascii">             A@Gri;:::::,:;rAG&amp;@,             </text>
+<text x="24" y="142" class="ascii">             ,BhhMh2r;:iX253h2S#,             </text>
+<text x="24" y="160" class="ascii">            .2SMHS#G3AiAhG#SM5M5s:            </text>
+<text x="24" y="178" class="ascii">             2G3XXsrsArsrrsssXh2s             </text>
+<text x="24" y="196" class="ascii">              A#Ai;:s2iXs::is5Sr              </text>
+<text x="24" y="214" class="ascii">               5&amp;3A2H&amp;9B#M52G@H               </text>
+<text x="24" y="232" class="ascii">                9@@@&amp;9GS##@@@@X               </text>
+<text x="24" y="250" class="ascii">                 &amp;@@99#9&amp;9@@@9                </text>
+<text x="24" y="268" class="ascii">                 A#&amp;@B@@@@@&amp;SM,               </text>
+<text x="24" y="286" class="ascii">             iXh9BH55hhMM5A3MH9G2i,           </text>
+<text x="24" y="304" class="ascii">     :r2MS9@@@@@@@@@@@&amp;B9B&amp;@@@@@@@@@9G3Ar:    </text>
+<text x="24" y="322" class="ascii">  rG@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@93; </text>
+<text x="24" y="340" class="ascii">:S@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="520" y="34" class="txt accent">turkoise@github  ─────────────────────────────────────────────</text>
+<text x="520" y="52" class="txt ">OS:             macOS</text>
+<text x="520" y="70" class="txt ">Location:       Bulgaria</text>
+<text x="520" y="88" class="txt ">Role:           Frontend Developer</text>
+<text x="520" y="106" class="txt green">Status:         Open to work</text>
+<text x="520" y="124" class="txt "></text>
+<text x="520" y="142" class="txt accent">Languages.Programming:</text>
+<text x="520" y="160" class="txt ">JavaScript, TypeScript, C#, Swift</text>
+<text x="520" y="178" class="txt ">Frameworks:     React, Next.js, React Native, Vite</text>
+<text x="520" y="196" class="txt ">Frontend:       Tailwind CSS, HTML, CSS</text>
+<text x="520" y="214" class="txt ">Backend:        Node.js, Supabase, REST APIs</text>
+<text x="520" y="232" class="txt ">Tools:          Git, GitHub, Figma, VS Code</text>
+<text x="520" y="250" class="txt "></text>
+<text x="520" y="268" class="txt muted">- Projects ─────────────────────────────────────────────────</text>
+<text x="520" y="286" class="txt ">Momiva          Pregnancy &amp; baby tracking</text>
+<text x="520" y="304" class="txt ">Time Empire     Browser-based idle game</text>
+<text x="520" y="322" class="txt ">KiraIsland      Modern web project</text>
+<text x="520" y="340" class="txt "></text>
+<text x="520" y="358" class="txt muted">- Contact ──────────────────────────────────────────────────</text>
+<text x="520" y="376" class="txt ">GitHub:         github.com/ankaroni</text>
+<text x="520" y="394" class="txt ">Email:          turkoisedigitalagency@gmail.com</text>
+<text x="520" y="412" class="txt "></text>
+<text x="520" y="430" class="txt green">Clean code. Useful products. Better experiences.</text>
+</svg>
