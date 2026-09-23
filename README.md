@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./portrait.svg" width="420" alt="ASCII Portrait">
+  <img src="./portrait.svg" width="420" alt="Turkoise ASCII Portrait">
 </p>
